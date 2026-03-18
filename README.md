@@ -39,7 +39,7 @@ J'accorde une attention particulière à la qualité du code, la réutilisabilit
 
 ![](https://github-readme-stats.vercel.app/api?username=Anthony-LABADIE&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-LABADIE&theme=solarized-light&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-LABADIE&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-LABADIE&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=c%2B%2B)
 
 ## 🏆 GitHub Trophies
 
